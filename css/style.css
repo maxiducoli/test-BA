@@ -1,0 +1,24 @@
+#testCSS1{
+
+    font-size: 20px;
+    background-color: #FF0000;
+    border-color: aqua;
+    color: #F0A030;
+}
+#testCSS2{
+
+    font-size: 20px;
+    background-color: #303030;
+    font-weight:300;
+    color: aliceblue;
+}
+#testCSS3{
+
+    font-size: 20px;
+    background-color: #F0A030;
+ font-style: italic;
+}
+
+.images {
+    height: 200px;
+}
